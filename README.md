@@ -6,3 +6,4 @@ My work-through of Real World Haskell
 Completed
 
 1. Getting Started
+- Types and Functions
